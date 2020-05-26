@@ -2,4 +2,4 @@ Kind:Pod
   Label:Nginx 
   Replicaset: 3
   Container: nginx 
- 
+Deployment 
